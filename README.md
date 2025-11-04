@@ -1,4 +1,3 @@
-<img width="114" height="115" alt="PriceCompareLogo" src="https://github.com/user-attachments/assets/bf6c0f25-7a87-4e91-b2d8-9859ef38c2ad" />
 
 # India Price Comparator
 
